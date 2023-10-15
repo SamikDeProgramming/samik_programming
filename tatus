@@ -1,0 +1,41 @@
+[33mcommit e5ae8bb2ac44fb9513bcd056c6b00d1cc1d51940[m[33m ([m[1;36mHEAD -> [m[1;32mmy-branch[m[33m)[m
+Author: SamikDeProgramming <samikforprogramming@gmail.com>
+Date:   Sun Oct 15 19:42:28 2023 +0530
+
+    this is first commit from my branch
+
+[33mcommit b8637f32ecc8f0af9aadc17a300836f67d1ecae1[m[33m ([m[1;32mproduction[m[33m, [m[1;32mmaster[m[33m)[m
+Author: SamikDeProgramming <samikforprogramming@gmail.com>
+Date:   Sun Oct 15 19:21:59 2023 +0530
+
+    add errorlog folder to ignore list
+
+[33mcommit 06047d1f05e742fe5951284ea48c74d038a7a453[m
+Author: SamikDeProgramming <samikforprogramming@gmail.com>
+Date:   Sun Oct 15 19:17:14 2023 +0530
+
+    file add for ignore
+
+[33mcommit 329ccc219d253574f78a411d2eda86c2ca732fa3[m
+Author: SamikDeProgramming <samikforprogramming@gmail.com>
+Date:   Sun Oct 15 12:36:45 2023 +0530
+
+    file deleted
+
+[33mcommit de8a1dc8295e19b7d71b0899ede93212ba93253b[m
+Author: SamikDeProgramming <samikforprogramming@gmail.com>
+Date:   Sun Oct 15 12:15:10 2023 +0530
+
+    commit for delete test
+
+[33mcommit e6b6a3a7ed67322952d5e0c33cbbc272ccd650bd[m
+Author: SamikDeProgramming <samikforprogramming@gmail.com>
+Date:   Sun Oct 15 12:03:13 2023 +0530
+
+    adding new line test.blade.php file
+
+[33mcommit 986e54b7efe7c54e368437dc89c4982e5fbb08d5[m
+Author: SamikDeProgramming <samikforprogramming@gmail.com>
+Date:   Sun Oct 15 11:34:57 2023 +0530
+
+    My First Commit
