@@ -13,3 +13,4 @@ yarn-error.log
 .env
 .phpunit.result.cache
 app/errorlog.txt
+app/projectlog/
